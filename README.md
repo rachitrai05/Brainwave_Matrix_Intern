@@ -37,6 +37,7 @@ This is a **Java-based ATM simulation program** that performs basic banking oper
    java NewAtm
 
 📸 Preview
+
 ----- User Registration -----
 
 Enter Name: Rachit Rai
