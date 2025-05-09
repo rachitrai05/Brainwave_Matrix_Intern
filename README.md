@@ -36,21 +36,21 @@ This is a **Java-based ATM simulation program** that performs basic banking oper
 3. Run the app:
    java NewAtm
 
-📸 Preview
+## 📸 Preview
 
------ User Registration -----
+## ----- User Registration ----
+   
+   Enter Name: Rachit Rai
+   
+   Create Password: pass123
 
-Enter Name: Rachit Rai
+   Set Account Number: 1234567890
 
-Create Password: pass123
-
-Set Account Number: 1234567890
-
-Set 4-digit ATM PIN: 1234
+   Set 4-digit ATM PIN: 1234
 
 ✅ Registration successful!
 
------ User Login -----
+## ----- User Login -----
 
 Enter Account Number: 1234567890
 
@@ -58,7 +58,7 @@ Enter ATM PIN: 1234
 
 ✅ Login successful! Welcome, Rachit Rai
 
------- ATM MENU ------
+## ------ ATM MENU ------
 1. Deposit
 2. Withdraw
 3. Transfer
@@ -67,18 +67,18 @@ Enter ATM PIN: 1234
 Choose an option:
 
 
-📌 Notes
+## 📌 Notes
 Make sure to run from terminal or any IDE like IntelliJ or VS Code.
 No external database is used; all data is stored in runtime memory.
 The project is single-user focused for demonstration purposes.
 
-🙋‍♂️ Author
+## 🙋‍♂️ Author
 
 Developed by Rachit Rai
 
 Intern at Brainwave Matrix | Java Developer Trainee
 
-📬 Contact
+## 📬 Contact
 Feel free to reach out:
 
 GitHub: rachitrai05
