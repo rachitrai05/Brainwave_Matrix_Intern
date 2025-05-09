@@ -38,15 +38,23 @@ This is a **Java-based ATM simulation program** that performs basic banking oper
 
 📸 Preview
 ----- User Registration -----
+
 Enter Name: Rachit Rai
+
 Create Password: pass123
+
 Set Account Number: 1234567890
+
 Set 4-digit ATM PIN: 1234
+
 ✅ Registration successful!
 
 ----- User Login -----
+
 Enter Account Number: 1234567890
+
 Enter ATM PIN: 1234
+
 ✅ Login successful! Welcome, Rachit Rai
 
 ------ ATM MENU ------
