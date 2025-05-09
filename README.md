@@ -73,7 +73,6 @@ The project is single-user focused for demonstration purposes.
 
 🙋‍♂️ Author
 Developed by Rachit Rai
-
 Intern at Brainwave Matrix | Java Developer Trainee
 
 📬 Contact
