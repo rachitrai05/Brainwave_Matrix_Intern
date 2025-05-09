@@ -81,8 +81,8 @@ Intern at Brainwave Matrix | Java Developer Trainee
 ## 📬 Contact
 Feel free to reach out:
 
-GitHub: rachitrai05
+GitHub: https://github.com/rachitrai05
 
-LinkedIn: rachitrai0508
+LinkedIn: www.linkedin.com/in/rachitrai0508
 
 Email: rachitrai02@gmail.com
